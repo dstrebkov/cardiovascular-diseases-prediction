@@ -36,5 +36,4 @@ All of the dataset values were collected at the moment of medical examination.
 The goal of the project is to analyze Cardiovascular Disease dataset to find which factors are related to the heart diseases.
 
 ## Used Tools & Libraries
-`numpy`, `pandas`
-
+`numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`, `lightgbm`, `catboost`, `pytorch`
